@@ -6,7 +6,7 @@
 
 3. go to website https://newsapi.org/ again then click your account at the top of right bar
 
-4 copy apikey .
+4. copy apikey 
 
 5. open "NewsAPI.xcworkspace"
 
